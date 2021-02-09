@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm DevGuerreiro and I like owls 👋
 
-<!--
-**devguerreiro/devguerreiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Coruja Logo](https://lh5.googleusercontent.com/bjEufSUWf__Jt5BZ1zYzXQvMqKKnMaSiGl7LUWboBg2PWMXndcE8uam_I6pdxZNrJzVSLcLv31oakzRdM8ni=w1920-h1008)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently open to work.
+- 🌱 I’m currently learning Functional JavaScript, Nodejs, React and React Native.
+- 📫 How to reach me: devcorujam@gmail.com
+- 😄 Pronouns: DevGuerreiro :computer: || Coruja :owl:.
+- ⚡ Fun fact: I'm 22 and my right eyebrow and hair is naturally white, as I have vitiligo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+	<div><strong>Follow me:</strong></div>
+	<div>
+		<a href="https://www.linkedin.com/in/devguerreiro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+		<a href="https://www.instagram.com/dev.guerreiro" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+	</div>
+</div>
