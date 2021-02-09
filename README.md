@@ -1,6 +1,6 @@
 ### Hi there, I'm DevGuerreiro and I like owls 👋
 
-![Coruja Logo](https://lh5.googleusercontent.com/bjEufSUWf__Jt5BZ1zYzXQvMqKKnMaSiGl7LUWboBg2PWMXndcE8uam_I6pdxZNrJzVSLcLv31oakzRdM8ni=w1920-h1008)
+![Coruja Logo](https://drive.google.com/uc?export=view&id=1fQLcfMggEZmQu2G1BTTn1QFLmD5Yahjs)
 
 - 🔭 I’m currently open to work.
 - 🌱 I’m currently learning Functional JavaScript, Nodejs, React and React Native.
