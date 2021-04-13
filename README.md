@@ -73,6 +73,6 @@
 <div>
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/devguerreiro">
 <a href="https://www.linkedin.com/in/devguerreiro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-<a href="https://www.instagram.com/dev.guerreiro" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://www.instagram.com/devguerreiro" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
 </div>
 </div>
