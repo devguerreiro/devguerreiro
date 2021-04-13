@@ -27,10 +27,8 @@
 <img title="HTML5" alt="HTML5 Logo" height="32" width="32" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" />
 <img title="CSS3" alt="CSS3 Logo" height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" />
 <img title="Vuejs" alt="Vuejs Logo" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/vue-js.png" style="background-color: blue;" />
-<img title="Nuxtjs" alt="Nuxtjs Logo" height="32" width="32" src="https://nuxtjs.org/logos/nuxt-icon-white.png" />
 <img title="Buefy" alt="Buefy Logo" height="32" width="32" src="https://avatars.githubusercontent.com/u/26799900?s=400&v=4" />
 <img title="Tailwind CSS" alt="Tailwind CSS Logo" height="32" width="32" src="https://symbols.getvecta.com/stencil_97/3_tailwind-css-icon.43c02f69bf.svg" />
-<img title="Element UI" alt="Element UI Logo" height="32" width="32" src="https://iconape.com/wp-content/files/er/57916/svg/element-ui-1.svg" />
 </div>
 
 ##### Back end
