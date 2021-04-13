@@ -5,10 +5,10 @@
 
 ![Coruja Logo](https://drive.google.com/uc?export=view&id=1fQLcfMggEZmQu2G1BTTn1QFLmD5Yahjs)
 
-- 🔭 I’m currently open to work.
-- 🌱 I’m currently learning Functional JavaScript, Nodejs, React and React Native.
+- 🔭 I’m currently an intern.
+- 🌱 I’m currently doing my final paper.
 - 📫 How to reach me: devcorujam@gmail.com
--  :man_technologist: Role: Full-Stack Developer
+-  :man_technologist: Role: Full Stack Developer
 - 😄 Pronouns: DevGuerreiro :computer: || Coruja :owl:.
 - ⚡ Fun fact: I'm 22 and my right eyebrow and hair is naturally white, as I have vitiligo.
 
