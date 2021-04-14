@@ -3,14 +3,11 @@
 
 ### Hi there, I'm DevGuerreiro and I like owls :smile:
 
-![Coruja Logo](https://drive.google.com/uc?export=view&id=1fQLcfMggEZmQu2G1BTTn1QFLmD5Yahjs)
-
-- 🔭 I’m currently an intern.
-- 🌱 I’m currently doing my final paper.
+- :information_source: I’m currently an intern and doing my final paper.
 - 📫 How to reach me: devcorujam@gmail.com
 -  :man_technologist: Role: Full Stack Developer
-- 😄 Pronouns: DevGuerreiro :computer: || Coruja :owl:.
-- ⚡ Fun fact: I'm 22 and my right eyebrow and hair is naturally white, as I have vitiligo.
+- 😄 Pronouns: DevGuerreiro or CorujaM (in games).
+- :question: Curiosity: I'm 22 and my right eyebrow and hair is naturally white, as I have vitiligo.
 
 ### Skills
 
@@ -48,13 +45,15 @@
 <div>
 <img title="Docker" alt="Docker Logo" height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-256/docker-226091.png" />
 <img title="GitLab CI/CD" alt="GitLab Logo" height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/gitlab-282507.png" />
+<img title="Vercel" alt="Vercel Logo" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vercel.svg" />
+<img title="Heroku" alt="Heroku Logo" height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-256/heroku-5-569467.png" />
+<img title="surge.sh" alt="surge.sh Logo" height="32" width="32" src="https://surge.sh/images/logos/svg/surge-logo.svg" />
 </div>
 
 ##### Others
 
 <div>
 <img title="Git" alt="Git Logo" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-<img title="Vercel" alt="Vercel Logo" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vercel.svg" />
 <img title="VSCode" alt="VSCode Logo" height="32" width="32" src="https://img.icons8.com/color/452/visual-studio-code-2019.png" />
 <img title="Ubuntu" alt="Ubuntu Logo" height="32" width="32" src="https://image.flaticon.com/icons/png/512/888/888879.png" />
 </div>
