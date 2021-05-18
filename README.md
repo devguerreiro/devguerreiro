@@ -1,13 +1,10 @@
+### Hi there 👋, I'm DevGuerreiro and I like owls 😄
 
-
-
-### Hi there, I'm DevGuerreiro and I like owls :smile:
-
-- :information_source: I’m currently an intern and doing my final paper.
+- ℹ️ I’m currently working as a development leader and doing my final paper.
 - 📫 How to reach me: devcorujam@gmail.com
--  :man_technologist: Role: Full Stack Developer
+-  👨‍💻 Role: Full-Stack Developer
 - 😄 Pronouns: DevGuerreiro or CorujaM (in games).
-- :question: Curiosity: I'm 22 and my right eyebrow and hair is naturally white, as I have vitiligo.
+- ❓ Curiosity: I'm 22 and my right eyebrow and my hair is partially white naturally, as I have vitiligo.
 
 ### Skills
 
@@ -70,7 +67,6 @@
 <div align="center">
 <div><strong>Follow me:</strong></div>
 <div>
-<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/devguerreiro">
 <a href="https://www.linkedin.com/in/devguerreiro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 <a href="https://www.instagram.com/devguerreiro" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
 </div>
