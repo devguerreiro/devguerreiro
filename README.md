@@ -1,9 +1,9 @@
-### Hi there 👋, I'm DevGuerreiro and I like owls 😄
+### Hi there 👋, I'm DevGuerreiro 😄
 
-- ℹ️ I’m currently working as a development leader and doing my final paper.
+- ℹ️ I’m currently working as tech lead and doing my final paper.
 - 📫 How to reach me: devcorujam@gmail.com
 -  👨‍💻 Role: Full-Stack Developer
-- 😄 Pronouns: DevGuerreiro or CorujaM (in games).
+- 😄 Pronouns: DevGuerreiro or Cruello (in games).
 - ❓ Curiosity: I'm 22 and my right eyebrow and my hair is partially white naturally, as I have vitiligo.
 
 ### Skills
