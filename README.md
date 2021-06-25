@@ -1,9 +1,8 @@
-### Hi there 👋, I'm DevGuerreiro 😄
+### Hi there 👋
 
 - ℹ️ I’m currently working as tech lead and doing my final paper.
 - 📫 How to reach me: devcorujam@gmail.com
 -  👨‍💻 Role: Full-Stack Developer
-- 😄 Pronouns: DevGuerreiro or Cruello (in games).
 - ❓ Curiosity: I'm 22 and my right eyebrow and my hair is partially white naturally, as I have vitiligo.
 
 ### Skills
@@ -53,13 +52,6 @@
 <img title="Git" alt="Git Logo" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img title="VSCode" alt="VSCode Logo" height="32" width="32" src="https://img.icons8.com/color/452/visual-studio-code-2019.png" />
 <img title="Ubuntu" alt="Ubuntu Logo" height="32" width="32" src="https://image.flaticon.com/icons/png/512/888/888879.png" />
-</div>
-
-### Stats
-
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devguerreiro&hide=PLpgSQL&layout=compact&theme=dracula">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devguerreiro&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&custom_title=DevGuerreiro's+Github+Stats">
 </div>
 
 ---
