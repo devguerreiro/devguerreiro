@@ -7,14 +7,14 @@
 
 ### Skills
 
-##### Programming Languages
+##### Languages
 
 <div>
 <img title="Python" alt="Python Logo" height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img title="JavaScript" alt="JavaScript Logo" height="32" width="32" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
 </div>
 
-##### Front end
+##### Front-end
 
 <div>
 <img title="HTML5" alt="HTML5 Logo" height="32" width="32" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" />
@@ -24,7 +24,7 @@
 <img title="Tailwind CSS" alt="Tailwind CSS Logo" height="32" width="32" src="https://symbols.getvecta.com/stencil_97/3_tailwind-css-icon.43c02f69bf.svg" />
 </div>
 
-##### Back end
+##### Back-end
 
 <div>
 <img title="Django" alt="Django Logo" height="32" width="32" src="https://iconape.com/wp-content/png_logo_vector/django.png" />
@@ -46,18 +46,10 @@
 <img title="surge.sh" alt="surge.sh Logo" height="32" width="32" src="https://surge.sh/images/logos/svg/surge-logo.svg" />
 </div>
 
-##### Others
-
-<div>
-<img title="Git" alt="Git Logo" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-<img title="VSCode" alt="VSCode Logo" height="32" width="32" src="https://img.icons8.com/color/452/visual-studio-code-2019.png" />
-<img title="Ubuntu" alt="Ubuntu Logo" height="32" width="32" src="https://image.flaticon.com/icons/png/512/888/888879.png" />
-</div>
-
 ---
 
 <div align="center">
-<div><strong>Follow me:</strong></div>
+<div><strong>Contact me:</strong></div>
 <div>
 <a href="https://www.linkedin.com/in/devguerreiro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 <a href="https://www.instagram.com/devguerreiro" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
