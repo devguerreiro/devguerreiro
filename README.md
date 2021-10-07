@@ -15,8 +15,6 @@
 <img title="JavaScript" alt="JavaScript Logo" height="32" width="32" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
 <img title="TypeScript" alt="TypeScript Logo" height="32" width="32" src="https://miro.medium.com/max/256/1*tYwniVWMqcytJ1AQ6zud7A.png" />
 <img title="Vue.js" alt="Vue.js Logo" height="32" width="32" src="https://vuejs.org/images/logo.png" />
-<img title="Buefy" alt="Buefy Logo" height="32" width="32" src="https://avatars.githubusercontent.com/u/26799900?s=400&v=4" />
-<img title="Tailwind CSS" alt="Tailwind CSS Logo" height="32" width="32" src="https://symbols.getvecta.com/stencil_97/3_tailwind-css-icon.43c02f69bf.svg" />
 </div>
 
 ### Back-end
