@@ -1,9 +1,6 @@
 # E ai! 👋
 
-- ℹ️ I’m currently working as tech lead and doing my final paper.
-- 📫 How to reach me: devcorujam@gmail.com
--  👨‍💻 Role: Web Developer
-- ❓ Curiosity: I'm 22, my right eyebrow and my hair is partially white naturally, as I have vitiligo
+Yes, I'm 22 and my right eyebrow and my hair are partially white naturally 😅
 
 ## Main skills
 
@@ -30,19 +27,11 @@
 <img title="Postgres" alt="Postgres Logo" height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" />
 </div>
 
-### Others
-
-<div>
-<img title="Docker" alt="Docker Logo" height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-256/docker-226091.png" />
-<img title="GitLab CI/CD" alt="GitLab Logo" height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/gitlab-282507.png" />
-</div>
-
 ---
 
 <div align="center">
-<div><strong>Contact me:</strong></div>
+<div><strong>Get in touch</strong></div>
 <div>
 <a href="https://www.linkedin.com/in/devguerreiro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-<a href="https://www.instagram.com/devguerreiro" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
 </div>
 </div>
