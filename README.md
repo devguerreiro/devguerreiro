@@ -1,6 +1,6 @@
 # Whatsup! 👋
 
-Yes, I'm 22 and my right eyebrow and my hair are partially white naturally 😅
+I'll write a good description soon.
 
 ## Main skills
 
