@@ -1,8 +1,10 @@
-# Whatsup! 👋
+# Whatsup! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'll write a good description soon.
+I'm a Full-stack Web Developer looking for improving my personal skills and my experience with Vue.js and Django Rest Framework. I worry about writing clean code with a good performance. I also want to be between the best, because the average is too comfortable.
 
 ## Main skills
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" />
 
 ### Front-end
 
@@ -19,6 +21,7 @@ I'll write a good description soon.
 <div>
 <img title="Python" alt="Python Logo" height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img title="Django" alt="Django Logo" height="32" width="32" src="https://iconape.com/wp-content/png_logo_vector/django.png" />
+<img title="Django Rest" alt="Django Rest logo" height="32" width="32" src="https://img.stackshare.io/service/1630/New_Project__67_.png" />
 </div>
 
 ### Database
@@ -27,8 +30,9 @@ I'll write a good description soon.
 <img title="Postgres" alt="Postgres Logo" height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" />
 </div>
 
----
+<br/>
 
+------
 <div align="center">
 <div><strong>Get in touch</strong></div>
 <div>
