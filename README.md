@@ -31,6 +31,7 @@ I'm a Full-stack Web Developer looking for improving my personal skills and my e
 </div>
 
 <br/>
+<br/>
 
 ------
 <div align="center">
