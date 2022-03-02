@@ -1,6 +1,6 @@
 # Whatsup! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a Full-stack Web Developer looking for improving my personal skills and my experience with Vue.js and Django Rest Framework. I worry about writing clean code with a good performance. I also want to be between the best as the average is too comfortable.
+I'm a Full-stack Web Developer looking for improving my personal skills and my experience with Vue.js and Django Rest Framework. I worry about writing clean code with a good performance. I also want to be between the bests, as the average is too comfortable.
 
 ## Main skills
 
