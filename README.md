@@ -1,6 +1,6 @@
 # Whatsup! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a Full-stack Web Developer looking for improving my personal skills and my experience with Vue.js and Django Rest Framework. I worry about writing clean code with a good performance. I also want to be between the bests, as the average is too comfortable.
+I'm a Full-stack Web Developer looking for improving my professional and personal skills, and my experience in web development. I worry about writing clean code with good performance and quality. I also want to be among the bests, as the average is too comfortable.
 
 ## Main skills
 
@@ -14,6 +14,9 @@ I'm a Full-stack Web Developer looking for improving my personal skills and my e
 <img title="JavaScript" alt="JavaScript Logo" height="32" width="32" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
 <img title="TypeScript" alt="TypeScript Logo" height="32" width="32" src="https://miro.medium.com/max/256/1*tYwniVWMqcytJ1AQ6zud7A.png" />
 <img title="Vue.js" alt="Vue.js Logo" height="32" width="32" src="https://vuejs.org/images/logo.png" />
+<img title="Pinia" alt="Pinia Logo" height="32" width="32" src="https://pinia.vuejs.org/logo.svg" />
+<img title="Tailwind CSS" alt="Tailwind CSS Logo" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/480px-Tailwind_CSS_Logo.svg.png" />
+  
 </div>
 
 ### Back-end
