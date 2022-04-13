@@ -1,12 +1,12 @@
 # Whatsup! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a Full-stack Web Developer looking for improving my professional and personal skills, and my experience in web development. I worry about writing clean code with good performance and quality. I also want to be among the bests, as the average is too comfortable.
+I'm a Full-stack Web Developer looking for improving my professional and personal skills, and my experience in web development. I worry about writing clean code with good performance and quality.
 
 ## Main skills
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" />
 
-### Front-end
+### Frontend
 
 <div>
 <img title="HTML5" alt="HTML5 Logo" height="32" width="32" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" />
@@ -19,7 +19,7 @@ I'm a Full-stack Web Developer looking for improving my professional and persona
   
 </div>
 
-### Back-end
+### Backend
 
 <div>
 <img title="Python" alt="Python Logo" height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
