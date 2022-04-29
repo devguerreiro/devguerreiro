@@ -1,6 +1,6 @@
 # Whatsup! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a Full-stack Web Developer looking for improving my professional and personal skills, and my experience in web development. I worry about writing clean code with good performance and quality.
+I'm a Full-stack Web Developer looking for improving my professional and personal skills, and my experience in web development. I worry about writing clean code with good performance and quality. Currently I'm migrating to mobile development with React Native 😃.
 
 ## Main skills
 
