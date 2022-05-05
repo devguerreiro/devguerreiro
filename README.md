@@ -37,23 +37,6 @@ I'm a Full-stack Web Developer looking for improving my professional and persona
 <img title="Postgres" alt="Postgres Logo" height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" />
 </div>
 
-### Cloud
-
-<div>
-<img title="Firebase" alt="Firebase Logo" height="32" width="32" src="https://i.pinimg.com/originals/07/ca/4a/07ca4afbde70ce0c995b3f63e9c04ceb.png" />
-</div>
-
-### DevOps
-
-<div>
-<img title="Docker" alt="Docker Logo" height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
-<img title="Gitlab CI/CD" alt="Gitlab CI/CD Logo" height="32" width="32" src="https://gitlab.com/uploads/-/system/project/avatar/1347881/logo-extra-whitespace.png" />
-<img title="Surge" alt="Surge Logo" height="32" width="32" src="https://surge.sh/images/logos/svg/surge-logo.svg" />
-<img title="Heroku" alt="Heroku Logo" height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/873/873120.png" />
-<img title="Vercel" alt="Vercel Logo" height="32" width="32" src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" />
-<img title="Netlify" alt="Netlify Logo" height="32" width="32" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" />
-</div>
-
 <br/>
 <br/>
 
