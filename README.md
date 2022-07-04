@@ -1,5 +1,5 @@
 # Whatsup! 👋
-I'm a Full-stack Web Developer looking for improving my professional and personal skills, and my experience in web development. I worry about writing clean code with good performance and quality. Currently I'm learning mobile development with React Native 😃.
+I'm a Full-stack Web Developer looking for improving my professional and personal skills, and my experience in web and mobile development. I worry about writing clean code with good performance and quality. Currently I'm learning React/React Native 😃.
 
 ## Stack
 
