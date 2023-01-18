@@ -1,5 +1,5 @@
 # Whatsup! 👋
-I'm a Software Engineer looking for improving my professional and personal skills, and my experience in web and mobile development. I worry about writing clean code with good performance and quality. Currently I'm learning React/React Native 😃.
+I'm a Software Engineer looking for improving my professional and personal skills, and my experience in software development. I worry about writing clean code with good performance and quality. Currently, I'm doing the Full Cycle course from Wesley Willians and finishing my post-graduate in agile software engineering 😃.
 
 ## Stack
 
