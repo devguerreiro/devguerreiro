@@ -26,6 +26,7 @@ I'm a Software Engineer looking for improving my professional and personal skill
 <img title="Tailwind CSS" alt="Tailwind CSS Logo" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/480px-Tailwind_CSS_Logo.svg.png" />
 <img title="Vue.js" alt="Vue.js Logo" height="32" width="32" src="https://vuejs.org/images/logo.png" />
 <img title="Pinia" alt="Pinia Logo" height="32" width="32" src="https://pinia.vuejs.org/logo.svg" />
+<img title="React.js" alt="React.js" height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
   
 </div>
 
@@ -33,6 +34,7 @@ I'm a Software Engineer looking for improving my professional and personal skill
 
 <div>
 <img title="Django Rest" alt="Django Rest Logo" height="32" width="32" src="https://iconape.com/wp-content/png_logo_vector/django.png" />
+<img title="FastApi" alt="FastApi" height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" />
 <img title="Postgres" alt="Postgres Logo" height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" />
 </div>
 
