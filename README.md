@@ -1,5 +1,5 @@
 # Whatsup! 👋
-I'm a Software Engineer looking for improving my professional and personal skills, and my experience at software development. I worry about writing clean code with good performance and quality. Currently, I'm doing the Full Cycle course from Wesley Willians and finishing my postgraduate in Software Engineering with a focus on Agile Methodologies and DevOps culture 😃.
+I'm a Software Engineer looking for improving my professional and personal skills, and my experience at software development. I worry about writing clean code with good performance and quality. Currently, I'm doing the Full Cycle course from Wesley Willians 😃.
 
 ## Stack
 
