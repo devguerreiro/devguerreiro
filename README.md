@@ -32,8 +32,8 @@ I'm a Software Engineer looking for improving my professional and personal skill
 ### Backend
 
 <div>
-<img title="Django Rest" alt="Django Rest Logo" height="32" width="32" src="https://iconape.com/wp-content/png_logo_vector/django.png" />
-<img title="FastApi" alt="FastApi Logo" height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" />
+<img title="Django REST" alt="Django REST Logo" height="32" width="32" src="https://iconape.com/wp-content/png_logo_vector/django.png" />
+<img title="FastAPI" alt="FastAPI Logo" height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" />
 <img title="Express.js" alt="Express.js Logo" height="32" width="32" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" />
 <img title="Postgres" alt="Postgres Logo" height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" />
 <img title="MongoDB" alt="MongoDB Logo" height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" />
