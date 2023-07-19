@@ -22,7 +22,7 @@ I'm a Software Engineer looking for improving my professional and personal skill
 <div>
 <img title="HTML5" alt="HTML5 Logo" height="32" width="32" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" />
 <img title="CSS3" alt="CSS3 Logo" height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" />
-<img title="SASS" alt="SASS Logo" height="32" width="32" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />
+<img title="SASS" alt="SASS Logo" height="32" width="32" src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png" />
 <img title="Tailwind CSS" alt="Tailwind CSS Logo" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/480px-Tailwind_CSS_Logo.svg.png" />
 <img title="Vue.js" alt="Vue.js Logo" height="32" width="32" src="https://vuejs.org/images/logo.png" />
 <img title="React.js" alt="React.js Logo" height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
